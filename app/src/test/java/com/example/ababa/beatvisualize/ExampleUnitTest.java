@@ -1,4 +1,4 @@
-package com.example.ababa.myapplication;
+package com.example.ababa.beatvisualize;
 
 import org.junit.Test;
 
